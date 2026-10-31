@@ -1,0 +1,25 @@
+Final verification (2026-10-28)
+
+debug:
+[doctest] test cases:      12 |      12 passed | 0 failed | 0 skipped
+[doctest] assertions: 4555789 | 4555789 passed | 0 failed |
+[doctest] Status: SUCCESS!
+Test Passed.
+
+release:
+[doctest] test cases:      12 |      12 passed | 0 failed | 0 skipped
+[doctest] assertions: 4555789 | 4555789 passed | 0 failed |
+[doctest] Status: SUCCESS!
+Test Passed.
+
+asan:
+[doctest] test cases:      12 |      12 passed | 0 failed | 0 skipped
+[doctest] assertions: 4555789 | 4555789 passed | 0 failed |
+[doctest] Status: SUCCESS!
+Test Passed.
+
+tsan:
+[doctest] test cases:      12 |      12 passed | 0 failed | 0 skipped
+[doctest] assertions: 4555789 | 4555789 passed | 0 failed |
+[doctest] Status: SUCCESS!
+Test Passed.

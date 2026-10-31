@@ -1,0 +1,6 @@
+/build/
+*.events
+.DS_Store
+
+# Personal files, not part of the project
+output/
